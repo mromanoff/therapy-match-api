@@ -1,4 +1,4 @@
-Development API test server
+Development Therapy Match API test server
 ===========================
 
 API Node Server with Mongodb and Mongoose. Seed data to Mongodb from .json file
