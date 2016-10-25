@@ -1,0 +1,104 @@
+[
+  {
+    "styleDescriptor": "clinical",
+    "example": "I am a board-certified psychiatrist trained in both medication management and psychotherapy to treat a wide variety of psychiatric disorders",
+    "weights": [
+      {
+        "label": "Entirely disagree",
+        "value": "-1.5"
+      },
+      {
+        "label": "Mostly disagree",
+        "value": "-1.0"
+      },
+      {
+        "label": "Somewhat disagree",
+        "value": "-0.5"
+      },
+      {
+        "label": " Neither agree nor disagree",
+        "value": "0.0"
+      },
+      {
+        "label": " Somewhat agree",
+        "value": "0.5"
+      },
+      {
+        "label": "Mostly agree",
+        "value": "1.0"
+      },
+      {
+        "label": "Entirely agree",
+        "value": "1.5"
+      }
+    ]
+  },
+  {
+    "styleDescriptor": "direct",
+    "example": "The style of treatment I offer is very inter-active utilizing the realities of the \"here and now\" situations",
+    "weights": [
+      {
+        "label": "Entirely disagree",
+        "value": "-1.5"
+      },
+      {
+        "label": "Mostly disagree",
+        "value": "-1.0"
+      },
+      {
+        "label": "Somewhat disagree",
+        "value": "-0.5"
+      },
+      {
+        "label": " Neither agree nor disagree",
+        "value": "0.0"
+      },
+      {
+        "label": " Somewhat agree",
+        "value": "0.5"
+      },
+      {
+        "label": "Mostly agree",
+        "value": "1.0"
+      },
+      {
+        "label": "Entirely agree",
+        "value": "1.5"
+      }
+    ]
+  },
+  {
+    "styleDescriptor": "nurturing",
+    "example": "If you are feeling down, lonely or lost; I can help",
+    "weights": [
+      {
+        "label": "Entirely disagree",
+        "value": "-1.5"
+      },
+      {
+        "label": "Mostly disagree",
+        "value": "-1.0"
+      },
+      {
+        "label": "Somewhat disagree",
+        "value": "-0.5"
+      },
+      {
+        "label": " Neither agree nor disagree",
+        "value": "0.0"
+      },
+      {
+        "label": " Somewhat agree",
+        "value": "0.5"
+      },
+      {
+        "label": "Mostly agree",
+        "value": "1.0"
+      },
+      {
+        "label": "Entirely agree",
+        "value": "1.5"
+      }
+    ]
+  }
+]

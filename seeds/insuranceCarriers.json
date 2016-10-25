@@ -1,0 +1,46 @@
+[
+  {
+    "id": 4,
+    "name": "aetna"
+  },
+  {
+    "id": 3,
+    "name": "anthem"
+  },
+  {
+    "id": 5,
+    "name": "blue_cross_blue_shield"
+  },
+  {
+    "id": 7,
+    "name": "cigna"
+  },
+  {
+    "id": 2,
+    "name": "emblem"
+  },
+  {
+    "id": 10,
+    "name": "empire"
+  },
+  {
+    "id": 1,
+    "name": "harvard_pilgrim_healthcare"
+  },
+  {
+    "id": 9,
+    "name": "medicaid"
+  },
+  {
+    "id": 6,
+    "name": "medicare"
+  },
+  {
+    "id": 8,
+    "name": "oxford"
+  },
+  {
+    "id": 11,
+    "name": "united_healthcare"
+  }
+]

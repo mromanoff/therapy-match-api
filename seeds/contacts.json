@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "57c8bb99819ad720f43a0e7d",
+    "firstName": "Michael",
+    "lastName": "Romanoff",
+    "email": "test@test.com",
+    "updatedAt": "2016-09-01T23:36:57.924Z"
+  },
+  {
+    "_id": "57c8bbb2819ad720f43a0e7e",
+    "firstName": "Michael2",
+    "lastName": "Romanoff2",
+    "email": "test@test.com",
+    "updatedAt": "2016-09-01T23:37:22.229Z"
+  }
+]

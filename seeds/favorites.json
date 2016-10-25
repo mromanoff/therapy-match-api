@@ -1,0 +1,14 @@
+[
+  {
+    "id": "200",
+    "name": "Shannon Delaney",
+    "photoUrl": "https://cdn5.sussexdirectories.com/rms/rms_photos/sized/09/08/180809-413709-3_320x400.jpg?pu=1437754868",
+    "isFavorite": true
+  },
+  {
+    "id": "1629",
+    "name": "Ally Neuman",
+    "isFavorite": false,
+    "photoUrl": "https://cdn5.sussexdirectories.com/rms/rms_photos/sized/91/71/37191-357014-2_320x400.jpg?pu=1423025419"
+  }
+]
