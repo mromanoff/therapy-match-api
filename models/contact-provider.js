@@ -1,6 +1,9 @@
 var mongoose = require('mongoose');
+var Schema = mongoose.Schema;
 
-var ContactProviderSchema = mongoose.Schema({
+var actions = 'REQUEST_CALL SCHEDULE_APPOINTMENT'.split(' ');
+
+var contactProviderSchema = new Schema({
   firstName: {
     type: String,
     required: true
@@ -19,7 +22,8 @@ var ContactProviderSchema = mongoose.Schema({
     type: String
   },
   type: {
-    type: String
+    type: String,
+    enum: actions
   },
   providerId: {
     type: String,
@@ -37,4 +41,4 @@ var ContactProviderSchema = mongoose.Schema({
   }
 });
 
-module.exports = mongoose.model('ContactProvider', ContactProviderSchema);
+module.exports = mongoose.model('ContactProvider', contactProviderSchema);

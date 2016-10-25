@@ -1,6 +1,7 @@
 var mongoose = require('mongoose');
+var Schema = mongoose.Schema;
 
-var insuranceDetailsSchema = mongoose.Schema({
+var insuranceDetailsSchema = new Schema({
     insuranceCarrier: {
       type: String
     },

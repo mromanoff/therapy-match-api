@@ -1,6 +1,7 @@
 var mongoose = require('mongoose');
+var Schema = mongoose.Schema;
 
-var QuestionnaireSchema = mongoose.Schema({
+var questionnaireSchema = new Schema({
     id: {
       type: String
     },
@@ -31,4 +32,4 @@ var QuestionnaireSchema = mongoose.Schema({
   {collection: 'questionnaire'}
 );
 
-module.exports = mongoose.model('Questionnaire', QuestionnaireSchema);
+module.exports = mongoose.model('Questionnaire', questionnaireSchema);

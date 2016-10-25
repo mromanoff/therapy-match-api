@@ -12,13 +12,16 @@ var app = express();
 // look at the issue: https://github.com/Automattic/mongoose/issues/4291
 mongoose.Promise = global.Promise;
 
-mongoose.connect('mongodb://localhost/therapy-match', function (err) {
-  if (err) {
-    console.log('connection error', err);
-  } else {
-    console.log('mongodb connection successful');
-  }
+mongoose.connect('mongodb://localhost/therapy-match');
+var db = mongoose.connection;
+db.on('error', console.error.bind(console, 'connection error:'));
+db.once('open', function() {
+  console.log('mongodb connection successful');
 });
+
+
+
+
 
 app.use(logger('dev'));
 app.use(bodyParser.json());

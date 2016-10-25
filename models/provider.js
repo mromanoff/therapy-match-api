@@ -1,6 +1,7 @@
 var mongoose = require('mongoose');
+var Schema = mongoose.Schema;
 
-var ProviderSchema = mongoose.Schema({
+var providerSchema = new Schema({
   id: {
     type: String
   },
@@ -35,4 +36,4 @@ var ProviderSchema = mongoose.Schema({
 });
 
 
-module.exports = mongoose.model('Provider', ProviderSchema);
+module.exports = mongoose.model('Provider', providerSchema);

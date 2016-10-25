@@ -2,7 +2,7 @@ var express = require('express');
 var router = express.Router();
 
 var Providers = require('../models/provider.js');
-var Contact = require('../models/contact-provider.js');
+var ContactProvider = require('../models/contact-provider.js');
 
 /* GET /api/providers listing. */
 router.get('/', function (req, res) {
@@ -42,15 +42,19 @@ router.put('/:id', function (req, res) {
 });
 
 
-/* POST  /api/providers/:id/contact?action=appointment|call */
-router.post('/:id/contact', function (req, res, next) {
+/* POST  /api/providers/:id/contact */
+router.post('/:id/contact', function (req, res) {
   console.log('params:', req.params);
-  console.log('query:', req.query);
-  var body = Object.assign({}, req.body, {providerId: req.params.id, type: req.query.action});
+  var body = Object.assign({}, req.body, {providerId: req.params.id});
+  var contactProvider = new ContactProvider(body);
 
-  Contact.create(body, function (err, item) {
-    if (err) return next(err);
-    res.json(item);
+  contactProvider.save(function (err, data) {
+    if (err) {
+      res.status(500).send(err);
+    } else {
+      // set status 201.
+      res.status(201).json(data);
+    }
   });
 });
 

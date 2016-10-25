@@ -1,6 +1,7 @@
 var mongoose = require('mongoose');
+var Schema = mongoose.Schema;
 
-var FavoriteSchema = mongoose.Schema({
+var favoriteSchema = new Schema({
   id: {
     type: String,
     required: true
@@ -19,4 +20,4 @@ var FavoriteSchema = mongoose.Schema({
   }
 });
 
-module.exports = mongoose.model('Favorite', FavoriteSchema);
+module.exports = mongoose.model('Favorite', favoriteSchema);

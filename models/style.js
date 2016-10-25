@@ -1,6 +1,7 @@
 var mongoose = require('mongoose');
+var Schema = mongoose.Schema;
 
-var StyleSchema = mongoose.Schema({
+var styleSchema = new Schema({
   styleDescriptor: {
     type: String,
     required: true
@@ -16,4 +17,4 @@ var StyleSchema = mongoose.Schema({
 });
 
 
-module.exports = mongoose.model('Style', StyleSchema);
+module.exports = mongoose.model('Style', styleSchema);
