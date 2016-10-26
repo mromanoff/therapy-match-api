@@ -6,7 +6,15 @@ var ContactProvider = require('../models/contact-provider.js');
 
 /* GET /api/providers listing. */
 router.get('/', function (req, res) {
-  Providers.find(function (err, data) {
+  var query = {};
+
+  //sanitize user query
+  //GET /api/providers?isFavorite=true|false
+  if (req.query.isFavorite) {
+    query.isFavorite = req.query.isFavorite;
+  }
+
+  Providers.find(query, function (err, data) {
     if (err) {
       res.status(500).send(err);
     } else {
@@ -27,7 +35,6 @@ router.get('/:id', function (req, res) {
   });
 });
 
-
 /* PUT  /api/providers/id */
 // we use findOneAndUpdate instead of findByIdAndUpdate due id is not mongo _id
 router.put('/:id', function (req, res) {
@@ -40,7 +47,6 @@ router.put('/:id', function (req, res) {
     }
   });
 });
-
 
 /* POST  /api/providers/:id/contact */
 router.post('/:id/contact', function (req, res) {
