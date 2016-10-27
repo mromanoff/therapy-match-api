@@ -5,31 +5,38 @@
     "weights": [
       {
         "label": "Entirely disagree",
-        "value": "-1.5"
+        "value": "-1.5",
+        "checked": false
       },
       {
         "label": "Mostly disagree",
-        "value": "-1.0"
+        "value": "-1.0",
+        "checked": false
       },
       {
         "label": "Somewhat disagree",
-        "value": "-0.5"
+        "value": "-0.5",
+        "checked": false
       },
       {
         "label": " Neither agree nor disagree",
-        "value": "0.0"
+        "value": "0.0",
+        "checked": true
       },
       {
         "label": " Somewhat agree",
-        "value": "0.5"
+        "value": "0.5",
+        "checked": false
       },
       {
         "label": "Mostly agree",
-        "value": "1.0"
+        "value": "1.0",
+        "checked": false
       },
       {
         "label": "Entirely agree",
-        "value": "1.5"
+        "value": "1.5",
+        "checked": false
       }
     ]
   },
@@ -39,31 +46,38 @@
     "weights": [
       {
         "label": "Entirely disagree",
-        "value": "-1.5"
+        "value": "-1.5",
+        "checked": false
       },
       {
         "label": "Mostly disagree",
-        "value": "-1.0"
+        "value": "-1.0",
+        "checked": false
       },
       {
         "label": "Somewhat disagree",
-        "value": "-0.5"
+        "value": "-0.5",
+        "checked": false
       },
       {
         "label": " Neither agree nor disagree",
-        "value": "0.0"
+        "value": "0.0",
+        "checked": true
       },
       {
         "label": " Somewhat agree",
-        "value": "0.5"
+        "value": "0.5",
+        "checked": false
       },
       {
         "label": "Mostly agree",
-        "value": "1.0"
+        "value": "1.0",
+        "checked": false
       },
       {
         "label": "Entirely agree",
-        "value": "1.5"
+        "value": "1.5",
+        "checked": false
       }
     ]
   },
@@ -73,31 +87,38 @@
     "weights": [
       {
         "label": "Entirely disagree",
-        "value": "-1.5"
+        "value": "-1.5",
+        "checked": false
       },
       {
         "label": "Mostly disagree",
-        "value": "-1.0"
+        "value": "-1.0",
+        "checked": false
       },
       {
         "label": "Somewhat disagree",
-        "value": "-0.5"
+        "value": "-0.5",
+        "checked": false
       },
       {
         "label": " Neither agree nor disagree",
-        "value": "0.0"
+        "value": "0.0",
+        "checked": true
       },
       {
         "label": " Somewhat agree",
-        "value": "0.5"
+        "value": "0.5",
+        "checked": false
       },
       {
         "label": "Mostly agree",
-        "value": "1.0"
+        "value": "1.0",
+        "checked": false
       },
       {
         "label": "Entirely agree",
-        "value": "1.5"
+        "value": "1.5",
+        "checked": false
       }
     ]
   }
