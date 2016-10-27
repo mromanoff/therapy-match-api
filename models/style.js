@@ -2,17 +2,17 @@ var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 
 var styleSchema = new Schema({
-  label: {
+  styleDescriptor: {
     type: String,
     required: true
   },
-  value: {
+  example: {
     type: String,
     required: true
   },
-  checked: {
-    type: Boolean,
-    default: false
+  weights: {
+    type: Array,
+    required: true
   }
 });
 
