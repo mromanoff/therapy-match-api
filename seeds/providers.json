@@ -39,8 +39,8 @@
         "metadata": {
           "issues": [],
           "styles": [
-            "Test",
-            "test 123"
+            "clinical",
+            "nurturing"
           ]
         },
         "sentence": "I treat children, adolescents, and adults and enjoy working with families."
@@ -125,8 +125,8 @@
         "metadata": {
           "issues": [],
           "styles": [
-            "Test",
-            "test 123"
+            "direct",
+            "clinical"
           ]
         },
         "sentence": "I treat children, adolescents, and adults and enjoy working with families."
@@ -185,7 +185,7 @@
             "test 123"
           ],
           "styles": [
-            "clinical"
+            "nurturing"
           ]
         },
         "sentence": "I also do research in psychosis at Columbia University Medical Center."
@@ -203,8 +203,8 @@
         "metadata": {
           "issues": [],
           "styles": [
-            "Test",
-            "test 123"
+            "clinical",
+            "nurturing"
           ]
         },
         "sentence": "I treat children, adolescents, and adults and enjoy working with families."
@@ -261,8 +261,8 @@
         "metadata": {
           "issues": [],
           "styles": [
-            "Test",
-            "test 123"
+            "direct",
+            "nurturing"
           ]
         },
         "sentence": "I treat children, adolescents, and adults and enjoy working with families."
@@ -1494,8 +1494,8 @@
         "metadata": {
           "issues": [],
           "styles": [
-            "Test",
-            "test 123"
+            "direct",
+            "nurturing"
           ]
         },
         "sentence": "I treat children, adolescents, and adults and enjoy working with families."
@@ -1552,8 +1552,8 @@
         "metadata": {
           "issues": [],
           "styles": [
-            "Test",
-            "test 123"
+            "direct",
+            "clinical"
           ]
         },
         "sentence": "I treat children, adolescents, and adults and enjoy working with families."
