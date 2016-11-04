@@ -16,8 +16,7 @@ router.get('/health-check', function(req, res) {
   res.send('OK');
 });
 
-router.use('/styles/descriptors', stylesRoutes);
-router.use('/styles/providers', providersRoutes);
+router.use('/styles', stylesRoutes);
 router.use('/providers', providersRoutes);
 router.use('/issues/questionnaire', questionnaireRoutes);
 router.use('/location', locationRoutes);

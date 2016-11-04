@@ -14,6 +14,10 @@ router.get('/', function (req, res) {
     query.isFavorite = req.query.isFavorite;
   }
 
+  if (req.query.page) {
+    query.page = req.query.page;
+  }
+
   Providers.find(query, function (err, data) {
     if (err) {
       res.status(500).send(err);

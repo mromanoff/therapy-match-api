@@ -1,7 +1,7 @@
 var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 
-var insuranceCarriersSchema = new Schema({
+var insuranceCarrierSchema = new Schema({
     id: {
       type: String,
       required: true
@@ -15,4 +15,4 @@ var insuranceCarriersSchema = new Schema({
 );
 
 
-module.exports = mongoose.model('InsuranceCarrier', insuranceCarriersSchema);
+module.exports = mongoose.model('InsuranceCarrier', insuranceCarrierSchema);
