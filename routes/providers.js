@@ -4,18 +4,21 @@ var router = express.Router();
 var Providers = require('../models/provider.js');
 var ContactProvider = require('../models/contact-provider.js');
 
-/* GET /api/providers listing. */
+/* GET /api/new-providers listing. */
 router.get('/', function (req, res) {
   var query = {};
+
+  var pageObject = {
+    providers: [],
+    totalItemsCount: 0,
+    page: parseInt(req.query.page, 10) || 1,
+    itemsCountPerPage: req.query.limit || 5
+  };
 
   //sanitize user query
   //GET /api/providers?isFavorite=true|false
   if (req.query.isFavorite) {
     query.isFavorite = req.query.isFavorite;
-  }
-
-  if (req.query.page) {
-    query.page = req.query.page;
   }
 
   //sanitize user query
@@ -24,13 +27,23 @@ router.get('/', function (req, res) {
     query.isInNetwork = req.query.isInNetwork;
   }
 
-  Providers.find(query, function (err, data) {
-    if (err) {
-      res.status(500).send(err);
-    } else {
-      res.status(200).json(data);
-    }
+  // Get all providers count
+  Providers.count(function (err, count) {
+    pageObject.totalItemsCount = count;
   });
+
+
+  Providers.find(query)
+    .skip(pageObject.page * pageObject.itemsCountPerPage)
+    .limit(pageObject.itemsCountPerPage)
+    .exec(function (err, data) {
+      if (err) {
+        res.status(500).send(err);
+      } else {
+        pageObject.providers = data;
+        res.status(200).json([pageObject]);
+      }
+    });
 });
 
 /* GET /api/providers/id */

@@ -12,9 +12,6 @@ var logoutRoutes = require('./logout');
 var signUpRoutes = require('./signUp');
 var userRoutes = require('./user');
 
-var newProvidersRoutes = require('./new-providers');
-
-
 /** GET /health-check - Check service health */
 router.get('/health-check', function(req, res) {
   res.send('OK');
@@ -31,9 +28,5 @@ router.use('/signup', signUpRoutes);
 router.use('/user/insurance-details', insuranceDetailsRoutes);
 router.use('/user/location', locationRoutes);
 router.use('/user', userRoutes);
-
-
-router.use('/new-providers', newProvidersRoutes);
-
 
 module.exports = router;
