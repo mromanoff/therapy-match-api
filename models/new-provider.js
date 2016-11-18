@@ -70,23 +70,4 @@ var providerSchema = new Schema({
 });
 
 
-var providerPageSchema = new Schema({
-  page: {
-    type: Number,
-    default: 1
-  },
-  itemsCountPerPage: {
-    type: Number,
-    default: 10
-  },
-  totalItemsCount: {
-    type: Number,
-    default: null
-  },
-  providers: {
-    type: [providerSchema]
-  }
-});
-
-
-module.exports = mongoose.model('Provider', providerPageSchema);
+module.exports = mongoose.model('New-provider', providerSchema);

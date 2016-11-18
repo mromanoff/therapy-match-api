@@ -10,6 +10,10 @@ var insuranceDetailsRoutes = require('./insurance-details');
 var loginRoutes = require('./login');
 var logoutRoutes = require('./logout');
 var signUpRoutes = require('./signUp');
+var userRoutes = require('./user');
+
+var newProvidersRoutes = require('./new-providers');
+
 
 /** GET /health-check - Check service health */
 router.get('/health-check', function(req, res) {
@@ -25,5 +29,11 @@ router.use('/login', loginRoutes);
 router.use('/logout', logoutRoutes);
 router.use('/signup', signUpRoutes);
 router.use('/user/insurance-details', insuranceDetailsRoutes);
+router.use('/user/location', locationRoutes);
+router.use('/user', userRoutes);
+
+
+router.use('/new-providers', newProvidersRoutes);
+
 
 module.exports = router;

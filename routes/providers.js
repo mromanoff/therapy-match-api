@@ -18,6 +18,12 @@ router.get('/', function (req, res) {
     query.page = req.query.page;
   }
 
+  //sanitize user query
+  //GET /api/providers?isInNetwork=true|false
+  if (req.query.isInNetwork) {
+    query.isInNetwork = req.query.isInNetwork;
+  }
+
   Providers.find(query, function (err, data) {
     if (err) {
       res.status(500).send(err);

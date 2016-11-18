@@ -7,6 +7,7 @@
         "age": null,
         "degree": "Masters in Family Therapy",
         "gender": "female",
+        "distance": "0.5mi",
         "highlights": [
           {
             "metadata": {
@@ -30,6 +31,7 @@
         ],
         "id": "1549",
         "isFavorite": false,
+        "isInNetwork": true,
         "name": "Bianca Vonbank",
         "phone": "9177916479",
         "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/sized/42/03/270342-519825-2_320x400.jpg?pu=1451353239",
@@ -69,6 +71,7 @@
         "age": "48",
         "degree": "Medical (Psychiatric) Degree",
         "gender": "female",
+        "distance": "0.5mi",
         "highlights": [
           {
             "metadata": {
@@ -151,6 +154,7 @@
         "age": "34",
         "degree": "Doctorate in Psychology/Psychoanalysis",
         "gender": "female",
+        "distance": "0.5mi",
         "highlights": [
           {
             "metadata": {
@@ -201,6 +205,7 @@
         "age": "45",
         "degree": "Medical (Psychiatric) Degree",
         "gender": "female",
+        "distance": "0.5mi",
         "highlights": [
           {
             "metadata": {
@@ -279,6 +284,7 @@
         "age": "48",
         "degree": "Masters in Counseling",
         "gender": "female",
+        "distance": "0.5mi",
         "highlights": [
           {
             "metadata": {
@@ -328,6 +334,7 @@
         "age": "37",
         "degree": "Masters in Social Work",
         "gender": "female",
+        "distance": "0.5mi",
         "highlights": [
           {
             "metadata": {
@@ -394,6 +401,7 @@
         "age": "33",
         "degree": "Medical (Psychiatric) Degree",
         "gender": "male",
+        "distance": "0.5mi",
         "highlights": [
           {
             "metadata": {
@@ -452,6 +460,7 @@
         "age": "38",
         "degree": "Medical (Psychiatric) Degree",
         "gender": "male",
+        "distance": "0.5mi",
         "highlights": [
           {
             "metadata": {
@@ -518,6 +527,7 @@
         "age": "30",
         "degree": "Doctorate in Psychology/Psychoanalysis",
         "gender": "female",
+        "distance": "0.5mi",
         "highlights": [
           {
             "metadata": {
@@ -604,6 +614,7 @@
         "age": "39",
         "degree": "Masters in Social Work",
         "gender": "female",
+        "distance": "0.5mi",
         "highlights": [
           {
             "metadata": {
@@ -662,6 +673,7 @@
         "age": "58",
         "degree": "Doctorate in Psychology/Psychoanalysis",
         "gender": "male",
+        "distance": "0.5mi",
         "highlights": [
           {
             "metadata": {
@@ -739,6 +751,7 @@
         "age": "34",
         "degree": "Masters in Social Work",
         "gender": "female",
+        "distance": "0.5mi",
         "highlights": [
           {
             "metadata": {
@@ -828,7 +841,8 @@
       {
         "age": "34",
         "degree": "Medical (Psychiatric) Degree",
-        "gender": "female",
+         "gender": "male", "distance": "0.5mi",
+
         "highlights": [
           {
             "metadata": {
@@ -911,6 +925,7 @@
         "age": "41",
         "degree": "Masters in Social Work",
         "gender": "male",
+        "distance": "0.2mi",
         "highlights": [
           {
             "metadata": {
@@ -942,6 +957,7 @@
         ],
         "id": "1722",
         "isFavorite": false,
+        "isInNetwork": true,
         "name": "Steven D Brown",
         "phone": "5183124554",
         "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/60/39/143960_2.jpg?pu=0",
