@@ -68,8 +68,8 @@ var providerSchema = new Schema({
       default: '0.1mi'
     }
   },
-  {collection: 'new-providers'}
+  {collection: 'providers'}
 );
 
 
-module.exports = mongoose.model('New-provider', providerSchema);
+module.exports = mongoose.model('provider', providerSchema);

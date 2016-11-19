@@ -11,7 +11,7 @@ router.get('/', function (req, res) {
   var pageObject = {
     providers: [],
     totalItemsCount: 0,
-    page: parseInt(req.query.page, 10) || 1,
+    page: parseInt(req.query.page, 10) || 0,
     itemsCountPerPage: req.query.limit || 5
   };
 
@@ -33,7 +33,7 @@ router.get('/', function (req, res) {
   });
 
 
-  Providers.find(query)
+  Providers.find({isInNetwork: true})
     .skip(pageObject.page * pageObject.itemsCountPerPage)
     .limit(pageObject.itemsCountPerPage)
     .exec(function (err, data) {
