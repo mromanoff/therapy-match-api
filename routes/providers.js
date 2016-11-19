@@ -22,18 +22,24 @@ router.get('/', function (req, res) {
   }
 
   //sanitize user query
+  //GET /api/providers?gender=male|female|all
+  if (req.query.gender) {
+    query.gender = req.query.gender;
+  }
+
+  //sanitize user query
   //GET /api/providers?isInNetwork=true|false
   if (req.query.isInNetwork) {
     query.isInNetwork = req.query.isInNetwork;
   }
 
   // Get all providers count
-  Providers.count(function (err, count) {
+  Providers.count(query, function (err, count) {
     pageObject.totalItemsCount = count;
   });
 
 
-  Providers.find({isInNetwork: true})
+  Providers.find(query)
     .skip(pageObject.page * pageObject.itemsCountPerPage)
     .limit(pageObject.itemsCountPerPage)
     .exec(function (err, data) {
