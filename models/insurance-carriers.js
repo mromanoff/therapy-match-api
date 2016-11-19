@@ -3,7 +3,7 @@ var Schema = mongoose.Schema;
 
 var insuranceCarrierSchema = new Schema({
     id: {
-      type: String,
+      type: Number,
       required: true
     },
     name: {
@@ -13,6 +13,5 @@ var insuranceCarrierSchema = new Schema({
   },
   {collection: 'insuranceCarriers'}
 );
-
 
 module.exports = mongoose.model('InsuranceCarrier', insuranceCarrierSchema);

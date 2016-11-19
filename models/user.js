@@ -4,19 +4,23 @@ var Schema = mongoose.Schema;
 var userSchema = new Schema({
     firstName: {
       type: String,
-      required: true
+      default: null
     },
     lastName: {
       type: String,
-      required: true
+      default: null
     },
     dob: {
       type: String,
-      required: true
+      default: null
     },
-    isMemberIdOnRecord: {
-      type: Boolean,
-      default: false
+    state: {
+      type: String,
+      default: null
+    },
+    carrierId: {
+      type: Number,
+      default: null
     }
   },
   {collection: 'user'}
