@@ -24,13 +24,23 @@ router.get('/', function (req, res) {
   //sanitize user query
   //GET /api/providers?gender=male|female|all
   if (req.query.gender) {
-    query.gender = req.query.gender;
+    if(req.query.gender === 'all') {
+      // we don't need to pass 'gender=all' with query.
+      delete req.query.gender;
+    } else {
+      query.gender = req.query.gender;
+    }
   }
 
   //sanitize user query
   //GET /api/providers?isInNetwork=true|false
   if (req.query.isInNetwork) {
-    query.isInNetwork = req.query.isInNetwork;
+    if(req.query.isInNetwork === 'false') {
+      // we don't need to pass 'isInNetwork=false' with query.
+      delete req.query.isInNetwork;
+    } else {
+      query.isInNetwork = req.query.isInNetwork;
+    }
   }
 
   // Get all providers count
