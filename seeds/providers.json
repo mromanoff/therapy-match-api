@@ -32,8 +32,10 @@
     "phone": "9177916479",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/sized/42/03/270342-519825-2_320x400.jpg?pu=1451353239",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "detailsOnRecord": false,
+      "insuranceOnRecord": true,
+      "price": null,
+      "note": "To unlock the price we need your insurance member id"
     },
     "school": null,
     "statementSentences": [
@@ -95,8 +97,10 @@
     "phone": "6462330306",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/sized/81/89/98981-252609-2_320x400.jpg?pu=1390242801",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "detailsOnRecord": true,
+      "insuranceOnRecord": true,
+      "price": "$2,000.42",
+      "note": "Insurance on record true and details on record true"
     },
     "school": "New York University School Of Medicine",
     "statementSentences": [
@@ -178,8 +182,10 @@
     "phone": "6465432281",
     "photoUrl": "https://cdn5.sussexdirectories.com/rms/rms_photos/original/70/42/144270_4.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "detailsOnRecord": false,
+      "insuranceOnRecord": false,
+      "price": null,
+      "note": "To unlock the price we need your insurance information and member id"
     },
     "school": "Columbia University",
     "statementSentences": [
@@ -229,8 +235,8 @@
     "phone": "6464624321",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/sized/40/54/115440-488883-3_320x400.jpg?pu=1446568490",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Umdnj- Robert Wood Johnson Medical School",
     "statementSentences": [
@@ -299,8 +305,8 @@
     "phone": "2129477111",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/sized/94/26/192694-275603-3_320x400.jpg?pu=1397576261",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Teachers'S College Columbia",
     "statementSentences": [
@@ -358,8 +364,8 @@
     "phone": "9174059640",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/original/59/51/65159_1.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Columbia University",
     "statementSentences": [
@@ -425,8 +431,8 @@
     "phone": "6464614685",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/sized/84/70/247084-418988-2_320x400.jpg?pu=1438360560",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": null,
     "statementSentences": [
@@ -484,8 +490,8 @@
     "phone": "2125792852",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/sized/52/66/36652-378439-3_320x400.jpg?pu=1428542223",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "New York Medical College",
     "statementSentences": [
@@ -559,8 +565,8 @@
     "phone": "6467601742",
     "photoUrl": "https://cdn5.sussexdirectories.com/rms/rms_photos/sized/39/00/200039-484167-2_320x400.jpg?pu=1445965037",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Hofstra University",
     "statementSentences": [
@@ -638,8 +644,8 @@
     "phone": "6467985430",
     "photoUrl": null,
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Columbia University",
     "statementSentences": [
@@ -696,8 +702,8 @@
     "phone": "2125807262",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/65/27/142765_2.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Yeshiva University",
     "statementSentences": [
@@ -775,8 +781,8 @@
     "phone": "6464901873",
     "photoUrl": "https://cdn5.sussexdirectories.com/rms/rms_photos/sized/64/83/88364-245784-2_320x400.jpg?pu=1387552187",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Fordham University",
     "statementSentences": [
@@ -874,8 +880,8 @@
     "phone": "9178096831",
     "photoUrl": "https://cdn5.sussexdirectories.com/rms/rms_photos/sized/58/81/198158-328461-3_320x400.jpg?pu=1429971665",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Suny Buffalo School Of Medicine",
     "statementSentences": [
@@ -958,8 +964,8 @@
     "phone": "5183124554",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/60/39/143960_2.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Boston Graduate School For Psychoanalysis",
     "statementSentences": [
@@ -1059,8 +1065,8 @@
     "phone": "8558477806",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/61/43/124361_2.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": null,
     "statementSentences": [
@@ -1128,8 +1134,8 @@
     "phone": "9175024529",
     "photoUrl": null,
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Seville University Medical School",
     "statementSentences": [
@@ -1198,8 +1204,8 @@
     "phone": "6467912862",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/sized/72/53/265372-491628-2_320x400.jpg?pu=1446932270",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": null,
     "statementSentences": [
@@ -1272,8 +1278,8 @@
     "phone": "6466005083",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/77/38/103877_3.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Columbia University",
     "statementSentences": [
@@ -1342,8 +1348,8 @@
     "phone": "6464807124",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/original/71/96/109671_2.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Michigan State University",
     "statementSentences": [
@@ -1407,8 +1413,8 @@
     "phone": "5162803544",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/71/78/67871_3.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": null,
     "statementSentences": [
@@ -1477,8 +1483,8 @@
     "phone": "9782034528",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/sized/01/52/245201-399341-3_320x400.jpg?pu=1434121646",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "New York University",
     "statementSentences": [
@@ -1539,8 +1545,8 @@
     "phone": "6463951143",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/70/03/30370_1.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Fordham University",
     "statementSentences": [
@@ -1596,8 +1602,8 @@
     "phone": "6463862272",
     "photoUrl": null,
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Columbia University, M.S. ; Nyu, Ph.D.",
     "statementSentences": [
@@ -1662,8 +1668,8 @@
     "phone": "9177468874",
     "photoUrl": null,
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": null,
     "statementSentences": [
@@ -1740,8 +1746,8 @@
     "phone": "3473295685",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/sized/00/51/215100-333118-2_320x400.jpg?pu=1415891700",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Hofstra",
     "statementSentences": [
@@ -1801,8 +1807,8 @@
     "phone": "6467590806",
     "photoUrl": "https://cdn5.sussexdirectories.com/rms/rms_photos/sized/27/91/269127-513306-2_320x400.jpg?pu=1450073725",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": null,
     "statementSentences": [
@@ -1878,8 +1884,8 @@
     "phone": "8557677287",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/sized/47/32/203247-315193-2_320x400.jpg?pu=1410442376",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "University Of Illinois College Of Medicine",
     "statementSentences": [
@@ -1944,8 +1950,8 @@
     "phone": "6468074159",
     "photoUrl": "https://cdn5.sussexdirectories.com/rms/rms_photos/original/49/05/130549_2.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "New York University",
     "statementSentences": [
@@ -2026,8 +2032,8 @@
     "phone": "9177460551",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/sized/52/35/143552-345361-1_320x400.jpg?pu=1420474689",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Albert Einstein College Of Medicine, Ferkauf",
     "statementSentences": [
@@ -2104,8 +2110,8 @@
     "phone": "9177468647",
     "photoUrl": null,
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "University Of California, Berkeley",
     "statementSentences": [
@@ -2166,8 +2172,8 @@
     "phone": "6468634438",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/original/89/08/120889_6.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Ferkauf At Einstein (Yeshiva)",
     "statementSentences": [
@@ -2215,8 +2221,8 @@
     "phone": "6467599048",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/sized/97/27/102797-496856-2_320x400.jpg?pu=1447639730",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Long Island University",
     "statementSentences": [
@@ -2289,8 +2295,8 @@
     "phone": "6466009198",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/81/39/63981_8.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Hunter College School Of Social Work",
     "statementSentences": [
@@ -2351,8 +2357,8 @@
     "phone": "6466063897",
     "photoUrl": null,
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "State University Of New York",
     "statementSentences": [
@@ -2401,8 +2407,8 @@
     "phone": "2128076642",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/57/45/84557_3.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "National Institute For The Psychotherapies",
     "statementSentences": [
@@ -2470,8 +2476,8 @@
     "phone": "9173829949",
     "photoUrl": "https://cdn5.sussexdirectories.com/rms/rms_photos/sized/91/48/124891-493756-3_320x400.jpg?pu=1447687367",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "New York University",
     "statementSentences": [
@@ -2544,8 +2550,8 @@
     "phone": "6467913070",
     "photoUrl": null,
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "New York University School Of Medicine",
     "statementSentences": [
@@ -2610,8 +2616,8 @@
     "phone": "9179095013",
     "photoUrl": "https://cdn5.sussexdirectories.com/rms/rms_photos/sized/34/18/241834-390799-2_320x400.jpg?pu=1431835604",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": null,
     "statementSentences": [
@@ -2699,8 +2705,8 @@
     "phone": "2123191511",
     "photoUrl": null,
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Chicago Medical School",
     "statementSentences": [
@@ -2773,8 +2779,8 @@
     "phone": "6463743620",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/12/70/147012_2.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Emory University/Hahnemann University",
     "statementSentences": [
@@ -2839,8 +2845,8 @@
     "phone": "6463511964",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/original/23/32/33223_6.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Columbia University",
     "statementSentences": [
@@ -2929,8 +2935,8 @@
     "phone": "6466795819",
     "photoUrl": null,
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "City University Of New York",
     "statementSentences": [
@@ -3007,8 +3013,8 @@
     "phone": "9177252162",
     "photoUrl": "https://cdn5.sussexdirectories.com/rms/rms_photos/sized/78/37/63778-432893-2_320x400.jpg?pu=1439937778",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "New York University",
     "statementSentences": [
@@ -3080,8 +3086,8 @@
     "phone": "3476097800",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/sized/51/05/210551-316289-2_320x400.jpg?pu=1410832079",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "University Of Pennsylvania School Of Medicine",
     "statementSentences": [
@@ -3138,8 +3144,8 @@
     "phone": "9175125730",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/sized/98/15/121598-447493-2_320x400.jpg?pu=1441700378",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Hunter College",
     "statementSentences": [
@@ -3207,8 +3213,8 @@
     "phone": "9292276839",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/sized/57/63/206357-326399-2_320x400.jpg?pu=1413773303",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "University Of Washington School Of Medicine",
     "statementSentences": [
@@ -3276,8 +3282,8 @@
     "phone": "6463928416",
     "photoUrl": null,
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": null,
     "statementSentences": [
@@ -3329,8 +3335,8 @@
     "phone": "9173000163",
     "photoUrl": null,
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Columbia University School Of Social Work",
     "statementSentences": [
@@ -3406,8 +3412,8 @@
     "phone": "6466817357",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/sized/74/43/104374-299894-3_320x400.jpg?pu=1405720772",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "State University Of New York Downstate",
     "statementSentences": [
@@ -3480,8 +3486,8 @@
     "phone": "6467831369",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/54/03/110354_3.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Harvard Medical School",
     "statementSentences": [
@@ -3546,8 +3552,8 @@
     "phone": "9177465009",
     "photoUrl": "https://cdn5.sussexdirectories.com/rms/rms_photos/original/86/52/125286_2.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "New York University College Of Nursing",
     "statementSentences": [
@@ -3616,8 +3622,8 @@
     "phone": "6463503740",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/sized/34/72/97234-432133-3_320x400.jpg?pu=1439903246",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Payne Whitney Weill Cornel Medical College",
     "statementSentences": [
@@ -3682,8 +3688,8 @@
     "phone": "6464807246",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/41/98/109841_2.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Ohio State University",
     "statementSentences": [
@@ -3751,8 +3757,8 @@
     "phone": "2122525560",
     "photoUrl": "https://cdn5.sussexdirectories.com/rms/rms_photos/original/02/85/68502_3.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Columbia University",
     "statementSentences": [
@@ -3805,8 +3811,8 @@
     "phone": "9143561313",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/sized/85/23/52385-340978-1_320x400.jpg?pu=1418509492",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Northwestern University",
     "statementSentences": [
@@ -3878,8 +3884,8 @@
     "phone": "6468469593",
     "photoUrl": null,
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "National Psychological Assoc. For Psychoanalysis",
     "statementSentences": [
@@ -3935,8 +3941,8 @@
     "phone": "9177466107",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/original/53/15/161553_3.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Weill Cornell Medical Center",
     "statementSentences": [
@@ -3996,8 +4002,8 @@
     "phone": "6467591834",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/sized/98/15/211598-319084-2_320x400.jpg?pu=1411525739",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Albert Einstein Montefiore Medical Center",
     "statementSentences": [
@@ -4046,8 +4052,8 @@
     "phone": "7185698483",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/87/30/43087_1.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": null,
     "statementSentences": [
@@ -4108,8 +4114,8 @@
     "phone": "6467984867",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/sized/05/95/209505-313514-3_320x400.jpg?pu=1410111433",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Columbia University",
     "statementSentences": [
@@ -4178,8 +4184,8 @@
     "phone": "6466797670",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/sized/91/36/163691-269183-2_320x400.jpg?pu=1395416282",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Rutgers",
     "statementSentences": [
@@ -4255,8 +4261,8 @@
     "phone": "9149085387",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/sized/25/38/203825-320075-2_320x400.jpg?pu=1411840972",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "The Chicago School Of Professional Psychology",
     "statementSentences": [
@@ -4337,8 +4343,8 @@
     "phone": "6463636034",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/06/01/60106_4.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Fordham Graduate School Of Social Services",
     "statementSentences": [
@@ -4406,8 +4412,8 @@
     "phone": "3474721608",
     "photoUrl": "https://cdn5.sussexdirectories.com/rms/rms_photos/sized/84/86/248684-410947-2_320x400.jpg?pu=1437411792",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": null,
     "statementSentences": [
@@ -4484,8 +4490,8 @@
     "phone": "6467591517",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/sized/39/10/211039-339361-2_320x400.jpg?pu=1418009013",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": null,
     "statementSentences": [
@@ -4549,8 +4555,8 @@
     "phone": "6464806992",
     "photoUrl": null,
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Case Western Reserve University",
     "statementSentences": [
@@ -4634,8 +4640,8 @@
     "phone": "8452622176",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/sized/92/93/179392-247056-2_320x400.jpg?pu=1388376964",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Wurzweiler School Of Social Work",
     "statementSentences": [
@@ -4704,8 +4710,8 @@
     "phone": "2125820676",
     "photoUrl": null,
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Yale University School Of Medicine",
     "statementSentences": [
@@ -4787,8 +4793,8 @@
     "phone": "6465833493",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/92/36/43692_3.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Columbia University",
     "statementSentences": [
@@ -4848,8 +4854,8 @@
     "phone": "6465833251",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/original/32/56/45632_5.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "New York University",
     "statementSentences": [
@@ -4917,8 +4923,8 @@
     "phone": "3472153082",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/sized/54/58/215854-328698-3_320x400.jpg?pu=1414544394",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Harvard Medical School",
     "statementSentences": [
@@ -4998,8 +5004,8 @@
     "phone": "9175634932",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/sized/85/79/257985-450777-3_320x400.jpg?pu=1442497261",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": null,
     "statementSentences": [
@@ -5071,8 +5077,8 @@
     "phone": "3476944522",
     "photoUrl": null,
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "University Of Pennsylvania Perelman Som",
     "statementSentences": [
@@ -5125,8 +5131,8 @@
     "phone": "5163244070",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/81/99/39981_1.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Adelphi University",
     "statementSentences": [
@@ -5211,8 +5217,8 @@
     "phone": "6466005223",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/41/46/54641_8.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Columbia University",
     "statementSentences": [
@@ -5288,8 +5294,8 @@
     "phone": "6467591324",
     "photoUrl": null,
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Nyu Psychiatry Residency And Fellowship",
     "statementSentences": [
@@ -5341,8 +5347,8 @@
     "phone": "2012838066",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/84/19/21984_3.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Columbia University",
     "statementSentences": [
@@ -5410,8 +5416,8 @@
     "phone": "2016887161",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/86/41/44186_1.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Purdue University",
     "statementSentences": [
@@ -5487,8 +5493,8 @@
     "phone": "6467984020",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/sized/26/05/220526-339911-2_320x400.jpg?pu=1418170825",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "New York College Of Osteopathic Medicine",
     "statementSentences": [
@@ -5556,8 +5562,8 @@
     "phone": "3479839549",
     "photoUrl": null,
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Columbia & Cornell Universities / Child Psychiatry",
     "statementSentences": [
@@ -5618,8 +5624,8 @@
     "phone": "9176061688",
     "photoUrl": null,
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "S.U.N.Y. Health Science Center",
     "statementSentences": [
@@ -5659,8 +5665,8 @@
     "phone": "3474080604",
     "photoUrl": null,
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "College Of Physicians And Surgeons, Columbia Univ.",
     "statementSentences": [
@@ -5720,8 +5726,8 @@
     "phone": "6466009235",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/sized/26/46/54626-296679-3_320x400.jpg?pu=1404832721",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Nyu Postdoctoral Program, Psychotherapy/Psychoanal",
     "statementSentences": [
@@ -5794,8 +5800,8 @@
     "phone": "9177403410",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/original/14/63/76314_5.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "New York University School Of Social Work",
     "statementSentences": [
@@ -5871,8 +5877,8 @@
     "phone": "6466797374",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/sized/52/84/218452-334983-2_320x400.jpg?pu=1416373784",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": null,
     "statementSentences": [
@@ -5944,8 +5950,8 @@
     "phone": "6464807440",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/88/76/117688_2.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": null,
     "statementSentences": [
@@ -6001,8 +6007,8 @@
     "phone": "9177463764",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/sized/42/79/177942-326153-2_320x400.jpg?pu=1413680182",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Gordon F. Derner Institute At Adelphi University",
     "statementSentences": [
@@ -6074,8 +6080,8 @@
     "phone": "6466813965",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/sized/32/64/236432-377253-2_320x400.jpg?pu=1428264846",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": null,
     "statementSentences": [
@@ -6156,8 +6162,8 @@
     "phone": "9177913061",
     "photoUrl": "https://cdn5.sussexdirectories.com/rms/rms_photos/original/75/58/75875_2.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "The Wright Institute",
     "statementSentences": [
@@ -6233,8 +6239,8 @@
     "phone": "9149202953",
     "photoUrl": null,
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Columbia University",
     "statementSentences": [
@@ -6306,8 +6312,8 @@
     "phone": "6467599585",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/sized/53/65/226553-354199-2_320x400.jpg?pu=1422388444",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": null,
     "statementSentences": [
@@ -6363,8 +6369,8 @@
     "phone": "5162791501",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/sized/43/71/247143-404577-1_320x400.jpg?pu=1435586369",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "University Of Texas Medical Branch",
     "statementSentences": [
@@ -6434,8 +6440,8 @@
     "phone": "9177914072",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/02/64/76402_3.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "New York University",
     "statementSentences": [
@@ -6511,8 +6517,8 @@
     "phone": "2033090933",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/66/40/144066_5.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "New York University",
     "statementSentences": [
@@ -6572,8 +6578,8 @@
     "phone": "9143807082",
     "photoUrl": null,
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "St George'S University School Of Medicine",
     "statementSentences": [
@@ -6653,8 +6659,8 @@
     "phone": "6464806828",
     "photoUrl": "https://cdn5.sussexdirectories.com/rms/rms_photos/sized/87/12/111287-308798-2_320x400.jpg?pu=1408541560",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Long Island University",
     "statementSentences": [
@@ -6718,8 +6724,8 @@
     "phone": "6463927531",
     "photoUrl": "https://cdn5.sussexdirectories.com/rms/rms_photos/sized/18/29/72918-245894-2_320x400.jpg?pu=1387604470",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Columbia University",
     "statementSentences": [
@@ -6787,8 +6793,8 @@
     "phone": "5167845861",
     "photoUrl": "https://cdn5.sussexdirectories.com/rms/rms_photos/sized/93/80/188093-278554-2_320x400.jpg?pu=1398697958",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Columbia University",
     "statementSentences": [
@@ -6868,8 +6874,8 @@
     "phone": null,
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/37/75/167537_3.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Nova Southeastern University",
     "statementSentences": [
@@ -6950,8 +6956,8 @@
     "phone": "9177467320",
     "photoUrl": "https://cdn5.sussexdirectories.com/rms/rms_photos/original/06/66/136606-194663.jpg?pu=1383775156",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Derner Institute Of Advanced Psychological St",
     "statementSentences": [
@@ -7023,8 +7029,8 @@
     "phone": "3475146604",
     "photoUrl": "https://cdn5.sussexdirectories.com/rms/rms_photos/original/10/40/134010_4.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Ferkauf, Albert Einstein College Of Medicine; Yale",
     "statementSentences": [
@@ -7080,8 +7086,8 @@
     "phone": "6463511747",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/85/99/39985_1.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "State University Of New York Downstate",
     "statementSentences": [
@@ -7149,8 +7155,8 @@
     "phone": "9088380809",
     "photoUrl": null,
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Hofstra University- Postdoc Clinical Psychology",
     "statementSentences": [
@@ -7234,8 +7240,8 @@
     "phone": "9178097907",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/64/25/152564_3.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "University Of Boston",
     "statementSentences": [
@@ -7319,8 +7325,8 @@
     "phone": "2122134129",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/sized/80/84/78480-263511-2_320x400.jpg?pu=1393599632",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "New York Medical College",
     "statementSentences": [
@@ -7404,8 +7410,8 @@
     "phone": "8666939993",
     "photoUrl": "https://cdn5.sussexdirectories.com/rms/rms_photos/sized/82/88/178882-245946-3_320x400.jpg?pu=1388270545",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Yeshiva Ferkauf Graduate School Of Psychology",
     "statementSentences": [
@@ -7466,8 +7472,8 @@
     "phone": "2128732694",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/original/35/71/57135_8.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "New York University",
     "statementSentences": [
@@ -7511,8 +7517,8 @@
     "phone": "4846635547",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/original/65/91/169165_2.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "St. John'S University",
     "statementSentences": [
@@ -7584,8 +7590,8 @@
     "phone": "6466005174",
     "photoUrl": "https://cdn5.sussexdirectories.com/rms/rms_photos/original/28/44/64428_3.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Columbia University Teachers College",
     "statementSentences": [
@@ -7662,8 +7668,8 @@
     "phone": "2129298927",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/original/43/43/104343_2.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "State University Of New York At Stony Brook",
     "statementSentences": [
@@ -7719,8 +7725,8 @@
     "phone": "7168004341",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/original/82/18/61882_5.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Antioch University Los Angeles",
     "statementSentences": [
@@ -7765,8 +7771,8 @@
     "phone": "7185697538",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/original/02/19/41902_8.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "New York University",
     "statementSentences": [
@@ -7826,8 +7832,8 @@
     "phone": "4848703177",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/sized/11/31/203111-298952-2_320x400.jpg?pu=1405524719",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Fourth Military Medical University, China",
     "statementSentences": [
@@ -7891,8 +7897,8 @@
     "phone": "6466063963",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/sized/34/16/21634-248696-2_320x400.jpg?pu=1389060330",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Adelphi University",
     "statementSentences": [
@@ -7956,8 +7962,8 @@
     "phone": "6462332644",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/original/64/07/160764_3.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "New York University",
     "statementSentences": [
@@ -8017,8 +8023,8 @@
     "phone": "6464309938",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/sized/23/66/126623-378927-2_320x400.jpg?pu=1428695206",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": null,
     "statementSentences": [
@@ -8086,8 +8092,8 @@
     "phone": "6463927359",
     "photoUrl": null,
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Residency N.Y State Psych Inst + Albert Einstein",
     "statementSentences": [
@@ -8159,8 +8165,8 @@
     "phone": "8455384516",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/89/47/124789_3.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Lady Hardinge Medical College",
     "statementSentences": [
@@ -8205,8 +8211,8 @@
     "phone": "2129960568",
     "photoUrl": "https://cdn5.sussexdirectories.com/rms/rms_photos/original/37/21/42137_5.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Adelphi University School Of Social Work",
     "statementSentences": [
@@ -8286,8 +8292,8 @@
     "phone": "9177913049",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/sized/44/86/68644-417670-2_320x400.jpg?pu=1438202300",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Rutgers University",
     "statementSentences": [
@@ -8364,8 +8370,8 @@
     "phone": "6467987893",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/sized/61/96/249661-445845-2_320x400.jpg?pu=1441422751",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": null,
     "statementSentences": [
@@ -8435,8 +8441,8 @@
     "phone": "9177254219",
     "photoUrl": null,
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Adelphi University",
     "statementSentences": [
@@ -8513,8 +8519,8 @@
     "phone": "5512273450",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/89/60/56089_3.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "New York University",
     "statementSentences": [
@@ -8590,8 +8596,8 @@
     "phone": "6467989217",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/sized/18/27/202718-337828-2_320x400.jpg?pu=1417490831",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "New York University School Of Medicine",
     "statementSentences": [
@@ -8667,8 +8673,8 @@
     "phone": "5162724567",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/sized/10/64/186410-267292-3_320x400.jpg?pu=1394812790",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Michigan State University",
     "statementSentences": [
@@ -8754,8 +8760,8 @@
     "phone": "6462330306",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/sized/81/89/98981-252609-2_320x400.jpg?pu=1390242801",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "New York University School Of Medicine",
     "statementSentences": [
@@ -8837,8 +8843,8 @@
     "phone": "6465432281",
     "photoUrl": "https://cdn5.sussexdirectories.com/rms/rms_photos/original/70/42/144270_4.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Columbia University",
     "statementSentences": [
@@ -8888,8 +8894,8 @@
     "phone": "6464624321",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/sized/40/54/115440-488883-3_320x400.jpg?pu=1446568490",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Umdnj- Robert Wood Johnson Medical School",
     "statementSentences": [
@@ -8958,8 +8964,8 @@
     "phone": "2129477111",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/sized/94/26/192694-275603-3_320x400.jpg?pu=1397576261",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Teachers'S College Columbia",
     "statementSentences": [
@@ -9017,8 +9023,8 @@
     "phone": "9174059640",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/original/59/51/65159_1.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Columbia University",
     "statementSentences": [
@@ -9084,8 +9090,8 @@
     "phone": "6464614685",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/sized/84/70/247084-418988-2_320x400.jpg?pu=1438360560",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": null,
     "statementSentences": [
@@ -9143,8 +9149,8 @@
     "phone": "2125792852",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/sized/52/66/36652-378439-3_320x400.jpg?pu=1428542223",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "New York Medical College",
     "statementSentences": [
@@ -9218,8 +9224,8 @@
     "phone": "6467601742",
     "photoUrl": "https://cdn5.sussexdirectories.com/rms/rms_photos/sized/39/00/200039-484167-2_320x400.jpg?pu=1445965037",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Hofstra University",
     "statementSentences": [
@@ -9297,8 +9303,8 @@
     "phone": "6467985430",
     "photoUrl": null,
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Columbia University",
     "statementSentences": [
@@ -9355,8 +9361,8 @@
     "phone": "2125807262",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/65/27/142765_2.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Yeshiva University",
     "statementSentences": [
@@ -9434,8 +9440,8 @@
     "phone": "6464901873",
     "photoUrl": "https://cdn5.sussexdirectories.com/rms/rms_photos/sized/64/83/88364-245784-2_320x400.jpg?pu=1387552187",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Fordham University",
     "statementSentences": [
@@ -9533,8 +9539,8 @@
     "phone": "9178096831",
     "photoUrl": "https://cdn5.sussexdirectories.com/rms/rms_photos/sized/58/81/198158-328461-3_320x400.jpg?pu=1429971665",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Suny Buffalo School Of Medicine",
     "statementSentences": [
@@ -9606,8 +9612,8 @@
     "phone": "8558477806",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/61/43/124361_2.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": null,
     "statementSentences": [
@@ -9675,8 +9681,8 @@
     "phone": "9175024529",
     "photoUrl": null,
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Seville University Medical School",
     "statementSentences": [
@@ -9745,8 +9751,8 @@
     "phone": "6467912862",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/sized/72/53/265372-491628-2_320x400.jpg?pu=1446932270",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": null,
     "statementSentences": [
@@ -9819,8 +9825,8 @@
     "phone": "6466005083",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/77/38/103877_3.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Columbia University",
     "statementSentences": [
@@ -9889,8 +9895,8 @@
     "phone": "6464807124",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/original/71/96/109671_2.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Michigan State University",
     "statementSentences": [
@@ -9954,8 +9960,8 @@
     "phone": "5162803544",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/71/78/67871_3.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": null,
     "statementSentences": [
@@ -10024,8 +10030,8 @@
     "phone": "9782034528",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/sized/01/52/245201-399341-3_320x400.jpg?pu=1434121646",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "New York University",
     "statementSentences": [
@@ -10086,8 +10092,8 @@
     "phone": "6463951143",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/70/03/30370_1.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Fordham University",
     "statementSentences": [
@@ -10143,8 +10149,8 @@
     "phone": "6463862272",
     "photoUrl": null,
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Columbia University, M.S. ; Nyu, Ph.D.",
     "statementSentences": [
@@ -10209,8 +10215,8 @@
     "phone": "9177468874",
     "photoUrl": null,
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": null,
     "statementSentences": [
@@ -10287,8 +10293,8 @@
     "phone": "3473295685",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/sized/00/51/215100-333118-2_320x400.jpg?pu=1415891700",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Hofstra",
     "statementSentences": [
@@ -10344,8 +10350,8 @@
     "phone": "6465830945",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/17/81/38117_1.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Yeshiva University",
     "statementSentences": [
@@ -10394,8 +10400,8 @@
     "phone": "7185698804",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/93/18/61893_8.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Training And Research Institute For Self Psycholog",
     "statementSentences": [
@@ -10476,8 +10482,8 @@
     "phone": "3479055956",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/sized/19/99/269919-527742-3_320x400.jpg?pu=1452536313",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": null,
     "statementSentences": [
@@ -10534,8 +10540,8 @@
     "phone": "8557464691",
     "photoUrl": null,
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "New York University",
     "statementSentences": [
@@ -10604,8 +10610,8 @@
     "phone": "6466005045",
     "photoUrl": "https://cdn5.sussexdirectories.com/rms/rms_photos/original/02/43/104302_3.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Iptar Institute For Psychonanalytic Training",
     "statementSentences": [
@@ -10674,8 +10680,8 @@
     "phone": "6465833943",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/47/40/34047_6.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "New York University",
     "statementSentences": [
@@ -10752,8 +10758,8 @@
     "phone": "6464806561",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/original/09/77/87709_5.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "City University Of New York Graduate Center",
     "statementSentences": [
@@ -10802,8 +10808,8 @@
     "phone": "9173830833",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/61/98/89861_5.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Cleveland Clinic",
     "statementSentences": [
@@ -10860,8 +10866,8 @@
     "phone": "6464806517",
     "photoUrl": null,
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "University Of Notre Dame",
     "statementSentences": [
@@ -10934,8 +10940,8 @@
     "phone": "6466005151",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/sized/88/42/54288-356848-3_320x400.jpg?pu=1423003359",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "New York University",
     "statementSentences": [
@@ -11008,8 +11014,8 @@
     "phone": "2013971822",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/71/58/115871_2.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "New York University",
     "statementSentences": [
@@ -11050,8 +11056,8 @@
     "phone": "6466792763",
     "photoUrl": null,
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Silberman School Of Social Work",
     "statementSentences": [
@@ -11116,8 +11122,8 @@
     "phone": "6464801966",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/71/94/139471_2.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Hunter College School Of Social Work",
     "statementSentences": [
@@ -11170,8 +11176,8 @@
     "phone": "9179094584",
     "photoUrl": "https://cdn5.sussexdirectories.com/rms/rms_photos/sized/87/23/72387-473128-2_320x400.jpg?pu=1444680579",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Ms, Counseling Psychology",
     "statementSentences": [
@@ -11236,8 +11242,8 @@
     "phone": "6467912719",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/sized/61/40/194061-278778-2_320x400.jpg?pu=1398734350",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Columbia University School Of Social Work",
     "statementSentences": [
@@ -11302,8 +11308,8 @@
     "phone": "6465767946",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/original/18/00/100018_5.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Npap",
     "statementSentences": [
@@ -11360,8 +11366,8 @@
     "phone": "9177254028",
     "photoUrl": "https://cdn5.sussexdirectories.com/rms/rms_photos/original/41/02/60241_6.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Ferkauf Graduate School Of Psychology",
     "statementSentences": [
@@ -11442,8 +11448,8 @@
     "phone": "9175216710",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/sized/33/87/198733-289661-2_320x400.jpg?pu=1402341111",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "New York University",
     "statementSentences": [
@@ -11532,8 +11538,8 @@
     "phone": "6466797874",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/29/20/162029_3.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Nizhny Novgorod State Medical Academy",
     "statementSentences": [
@@ -11622,8 +11628,8 @@
     "phone": "6467913101",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/sized/66/15/241566-390150-3_320x400.jpg?pu=1431705738",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": null,
     "statementSentences": [
@@ -11688,8 +11694,8 @@
     "phone": "6467913931",
     "photoUrl": null,
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Hunter College School Of Social Work",
     "statementSentences": [
@@ -11762,8 +11768,8 @@
     "phone": "6466797861",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/42/57/105742_3.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Columbia University Tc",
     "statementSentences": [
@@ -11860,8 +11866,8 @@
     "phone": "6467590418",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/sized/93/59/215993-328988-2_320x400.jpg?pu=1414606104",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Columbia University",
     "statementSentences": [
@@ -11926,8 +11932,8 @@
     "phone": "6467625380",
     "photoUrl": null,
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": null,
     "statementSentences": [
@@ -11976,8 +11982,8 @@
     "phone": "3477321001",
     "photoUrl": "https://cdn5.sussexdirectories.com/rms/rms_photos/sized/94/29/52994-407181-3_320x400.jpg?pu=1436257809",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "The Chicago School Of Professional Psychology",
     "statementSentences": [
@@ -12046,8 +12052,8 @@
     "phone": "2126040144",
     "photoUrl": null,
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "New York University",
     "statementSentences": [
@@ -12116,8 +12122,8 @@
     "phone": "6465831408",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/01/98/59801_2.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "California Family Study Center-",
     "statementSentences": [
@@ -12198,8 +12204,8 @@
     "phone": "3473086303",
     "photoUrl": "https://cdn5.sussexdirectories.com/rms/rms_photos/sized/84/93/59384-312415-3_320x400.jpg?pu=1409757892",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Fordham University",
     "statementSentences": [
@@ -12288,8 +12294,8 @@
     "phone": "9176526891",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/06/61/46106_4.jpg?pu=0",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "Princeton University",
     "statementSentences": [
@@ -12370,8 +12376,8 @@
     "phone": "6463511870",
     "photoUrl": "https://cdn5.sussexdirectories.com/rms/rms_photos/sized/26/45/44526-493628-2_320x400.jpg?pu=1447186819",
     "priceInformation": {
-      "billedPrice": "Dummy",
-      "postReimbursementPrice": "DummyDummy Dummy"
+      "price": "Dummy",
+      "note": "DummyDummy Dummy"
     },
     "school": "New York University",
     "statementSentences": [

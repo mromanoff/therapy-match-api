@@ -2,6 +2,28 @@ var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 
 
+var priceInfoSchema = new Schema({
+  price: {
+    type: String,
+    default: null
+  },
+  note: {
+    type: String,
+    default: null
+  },
+  insuranceOnRecord: {
+    type: Boolean,
+    default: false
+  },
+  detailsOnRecord: {
+    type: Boolean,
+    default: false
+  }
+});
+
+
+
+
 var providerSchema = new Schema({
     id: {
       type: String,
@@ -56,8 +78,7 @@ var providerSchema = new Schema({
       default: []
     },
     priceInformation: {
-      type: Object,
-      default: {}
+      type: priceInfoSchema
     },
     addresses: {
       type: Array,

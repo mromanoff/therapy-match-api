@@ -1,46 +1,50 @@
 [
   {
     "id": 4,
-    "name": "aetna"
+    "name": "Aetna"
   },
   {
     "id": 3,
-    "name": "anthem"
+    "name": "Anthem Blue Cross Blue Shield"
   },
   {
     "id": 5,
-    "name": "blue_cross_blue_shield"
+    "name": "Blue Cross Blue Shield"
   },
   {
     "id": 7,
-    "name": "cigna"
+    "name": "Cigna"
   },
   {
     "id": 2,
-    "name": "emblem"
+    "name": "Emblem"
   },
   {
     "id": 10,
-    "name": "empire"
+    "name": "Empire Blue Cross Blue Shield"
   },
   {
     "id": 1,
-    "name": "harvard_pilgrim_healthcare"
+    "name": "Harvard Pilgrim Healthcare"
   },
   {
     "id": 9,
-    "name": "medicaid"
+    "name": "Medicaid"
   },
   {
     "id": 6,
-    "name": "medicare"
+    "name": "Medicare"
   },
   {
     "id": 8,
-    "name": "oxford"
+    "name": "Oxford"
   },
   {
     "id": 11,
-    "name": "united_healthcare"
+    "name": "United Healthcare"
+  },
+  {
+    "id": 0,
+    "name": "None of these"
   }
 ]
