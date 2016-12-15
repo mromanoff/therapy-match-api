@@ -15,7 +15,7 @@ mongoose.Promise = global.Promise;
 mongoose.connect('mongodb://localhost/therapy-match');
 var db = mongoose.connection;
 db.on('error', console.error.bind(console, 'connection error:'));
-db.once('open', function() {
+db.once('open', function () {
   console.log('mongodb connection successful');
 });
 
@@ -43,7 +43,7 @@ var sessionOptions = {
     domain: '.therapymatch.info',
     httpOnly: false,
     secure: false,
-    path:'/'
+    path: '/'
   }
 };
 
@@ -51,5 +51,8 @@ app.use(session(sessionOptions));
 
 // mount all routes on /api path
 app.use('/api', routes);
+
+
+app.set('json spaces', 1); // set 0 to minimize json response
 
 module.exports = app;

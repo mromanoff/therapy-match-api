@@ -24,7 +24,7 @@ router.get('/', function (req, res) {
   //sanitize user query
   //GET /api/providers?gender=male|female|all
   if (req.query.gender) {
-    if(req.query.gender === 'all') {
+    if (req.query.gender === 'all') {
       // we don't need to pass 'gender=all' with query.
       delete req.query.gender;
     } else {
@@ -35,7 +35,7 @@ router.get('/', function (req, res) {
   //sanitize user query
   //GET /api/providers?isInNetwork=true|false
   if (req.query.isInNetwork) {
-    if(req.query.isInNetwork === 'false') {
+    if (req.query.isInNetwork === 'false') {
       // we don't need to pass 'isInNetwork=false' with query.
       delete req.query.isInNetwork;
     } else {
@@ -69,7 +69,12 @@ router.get('/:id', function (req, res) {
     if (err) {
       res.status(500).send(err);
     } else {
-      res.status(200).json(data);
+
+      if (data !== null) {
+        res.status(200).json(data);
+      } else {
+        res.status(400).send({message: 'provider not found'});
+      }
     }
   });
 });

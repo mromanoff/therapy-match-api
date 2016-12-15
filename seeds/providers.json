@@ -22,7 +22,7 @@
             "clinical"
           ]
         },
-        "sentence": "She has been extensively trained by Behavioral Tech, LLC has completed the DBT Foundational Training, Adapting Your DBT Program for Substance Use Disorders, Skills Training in Dialectical Behavior Therapy, and The DBT Approach to Couples Therapy."
+        "sentence": "She has been extensively trained by Behavioral Tech<br/>, LLC has completed the DBT Foundational Training, Adapting Your DBT Program for Substance Use Disorders, Skills Training in Dialectical Behavior Therapy, and The DBT Approach to Couples Therapy."
       }
     ],
     "id": "1549",
@@ -41,7 +41,7 @@
     "statementSentences": [
       {
         "highlighted": false,
-        "sentence": "Bianca VonBank, LPMFT holds a Bachelors in Psychology from Arizona State University and a Masters in Clinical Psychology from Antioch University, Santa Barbara."
+        "sentence": "Bianca VonBank, <br/>LPMFT holds a Bachelors in Psychology from Arizona State University and a Masters in Clinical Psychology from Antioch University, Santa Barbara."
       },
       {
         "highlighted": true,
@@ -53,7 +53,7 @@
       },
       {
         "highlighted": false,
-        "sentence": "Through her varied work experiences, Bianca developed an expertise in and deep passion for Dialectical Behavior Therapy (DBT)."
+        "sentence": "Through her varied work experiences, <br/>Bianca developed an expertise in and deep passion for Dialectical Behavior Therapy (DBT)."
       },
       {
         "highlighted": true,
@@ -2216,7 +2216,7 @@
       }
     ],
     "id": "1654",
-    "isFavorite": false,
+    "isFavorite": true,
     "name": "Joshua Scott",
     "phone": "6467599048",
     "photoUrl": "https://cdn1.sussexdirectories.com/rms/rms_photos/sized/97/27/102797-496856-2_320x400.jpg?pu=1447639730",
@@ -2290,7 +2290,7 @@
       }
     ],
     "id": "2433",
-    "isFavorite": false,
+    "isFavorite": true,
     "name": "Linda J Arkin",
     "phone": "6466009198",
     "photoUrl": "https://cdn3.sussexdirectories.com/rms/rms_photos/original/81/39/63981_8.jpg?pu=0",

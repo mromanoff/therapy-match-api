@@ -1,18 +1,30 @@
 var express = require('express');
 var router = express.Router();
 
-var Login = require('../models/login.js');
+var User = require('../models/user.js');
 
 /* POST /api/user/login */
 router.post('/', function (req, res) {
-  var login = new Login(req.body);
 
-  login.save(function (err) {
-    if(err) {
+  User.findOne({
+    email: req.body.email
+  }, function (err, user) {
+
+    if (err) {
       res.status(500).send(err);
-    } else {
-      // 204 send no body
-      res.status(204).send();
+    }
+    if (!user) {
+      res.json({success: false, message: 'Authentication failed. User not found.'});
+    } else if (user) {
+      if (user.password != req.body.password) {
+        res.json({success: false, message: 'Authentication failed. Wrong password.'});
+      } else {
+        // return the information including token as JSON
+        res.status(200).json({
+          success: true,
+          message: 'Enjoy your token!'
+        });
+      }
     }
   });
 });

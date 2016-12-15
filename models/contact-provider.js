@@ -12,9 +12,6 @@ var contactProviderSchema = new Schema({
     type: String,
     required: true
   },
-  phone: {
-    type: String
-  },
   email: {
     type: String
   },
@@ -28,12 +25,6 @@ var contactProviderSchema = new Schema({
   providerId: {
     type: String,
     required: true
-  },
-  startTime: {
-    type: String
-  },
-  endTime: {
-    type: String
   },
   updatedAt: {
     type: Date,

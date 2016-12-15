@@ -3,7 +3,6 @@ var router = express.Router();
 
 var User = require('../models/user.js');
 
-
 /* GET /api/user  */
 router.get('/', function (req, res) {
   User.find(function (err, data) {
@@ -18,13 +17,30 @@ router.get('/', function (req, res) {
 /* PUT  /api/user */
 router.put('/', function (req, res) {
 
-  User.findOneAndUpdate({name:req.params.name}, req.body, {runValidators: false, new: true}, function (err, data) {
+  User.findOneAndUpdate({name:req.params.name}, req.body, {runValidators: true, new: true}, function (err, data) {
     if (err) {
-      res.status(500).send(err);
+      res.status(400).send(err);
     } else {
       res.send(data);
     }
   });
+
+
+
+  // User.findOneAndUpdate({name:req.params.name}, req.body, {runValidators: false, new: true}, function (err, data) {
+  //   if (err) {
+  //     res.status(500).send(err);
+  //   } else {
+  //
+  //
+  //     //res.send(data);
+  //
+  //     res.status(400).json({
+  //       "message": "Validation failed",
+  //       "errors": {}
+  //     });
+  //   }
+  // });
 
 
   // User.update(req.body, function (err, data) {

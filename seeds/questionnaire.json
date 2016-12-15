@@ -1,406 +1,622 @@
 [
   {
-    "id": "1",
-    "title": "What do you want to address in therapy?",
-    "description": "Please CHECK ALL that apply*",
-    "type": "Question",
-    "isSelected": false,
     "childNodes": [
       {
-        "title": "Existing Diagnosis",
-        "description": "Which existing condition(s) would you like to address in therapy?",
-        "type": "Question",
-        "isSelected": false,
         "childNodes": [
           {
             "childNodes": [],
             "description": null,
-            "type": "Checkbox",
             "isSelected": false,
-            "title": "Anxiety"
-          },
-          {
-            "childNodes": [],
-            "description": null,
-            "type": "Checkbox",
-            "isSelected": false,
-            "title": "Depression"
-          },
-          {
-            "childNodes": [],
-            "description": null,
-            "type": "Checkbox",
-            "isSelected": false,
-            "title": "Eating Disorder"
-          },
-          {
-            "childNodes": [],
-            "description": null,
-            "type": "Checkbox",
-            "isSelected": false,
-            "title": "Post Traumatic Stress Disorder"
-          },
-          {
-            "childNodes": [],
-            "description": null,
-            "type": "Checkbox",
-            "isSelected": false,
-            "title": "ADHD"
-          }
-        ]
-      },
-      {
-        "title": "Things in My Past",
-        "description": "What from your PAST would you like to address in therapy?",
-        "type": "Question",
-        "isSelected": false,
-        "childNodes": [
-          {
-            "childNodes": [],
-            "description": null,
-            "title": "Family Issues",
-            "isSelected": false,
+            "title": "Family",
             "type": "Checkbox"
           },
           {
-            "title": "Trauma",
-            "description": "Was your trauma sexual in nature?",
-            "type": "RadioGroup",
+            "childNodes": [],
+            "description": null,
             "isSelected": false,
+            "title": "Coworkers",
+            "type": "Checkbox"
+          },
+          {
             "childNodes": [
               {
                 "childNodes": [],
                 "description": null,
-                "title": "Yes",
-                "name": "trauma",
                 "isSelected": false,
+                "name": "sex",
+                "title": "Yes",
                 "type": "Radio"
               },
               {
                 "childNodes": [],
                 "description": null,
-                "title": "No",
-                "name": "trauma",
                 "isSelected": false,
+                "name": "sex",
+                "title": "No",
                 "type": "Radio"
               }
-            ]
-          },
-          {
-            "title": "Grief/Loss",
-            "type": "Checkbox",
+            ],
+            "description": "Do you want to address sexual issues (libido, dysfunction, etc)?",
             "isSelected": false,
-            "description": null,
-            "childNodes": []
+            "title": "Romantic partner[s]",
+            "type": "Checkbox"
           },
           {
-            "title": "Other",
-            "description": "Please describe",
             "childNodes": [],
+            "description": null,
             "isSelected": false,
+            "title": "Friends",
+            "type": "Checkbox"
+          },
+          {
+            "childNodes": [],
+            "description": null,
+            "isSelected": false,
+            "title": "Other",
+            "type": "TextArea"
+          }
+        ],
+        "description": "Select all that apply; again, don't feel like you have to check anything if it's not important to you",
+        "isSelected": false,
+        "title": "Yes",
+        "type": "Question"
+      },
+      {
+        "childNodes": [],
+        "description": null,
+        "isSelected": false,
+        "title": "No",
+        "type": "Checkbox"
+      }
+    ],
+    "description": "It's okay if you don't want to focus on any particular relationships with others in therapy",
+    "id": "1",
+    "isSelected": false,
+    "title": "Are there any particular relationships you want to address in therapy?",
+    "type": "Question"
+  },
+  {
+    "childNodes": [
+      {
+        "childNodes": [
+          {
+            "childNodes": [],
+            "description": null,
+            "selected": false,
+            "title": "Anxiety",
+            "type": "Checkbox"
+          },
+          {
+            "childNodes": [],
+            "description": null,
+            "selected": false,
+            "title": "Depression",
+            "type": "Checkbox"
+          },
+          {
+            "childNodes": [],
+            "description": null,
+            "selected": false,
+            "title": "Eating Disorder",
+            "type": "Checkbox"
+          },
+          {
+            "childNodes": [],
+            "description": null,
+            "selected": false,
+            "title": "Post Traumatic Stress Disorder",
+            "type": "Checkbox"
+          },
+          {
+            "childNodes": [
+              {
+                "childNodes": [],
+                "description": null,
+                "name": "addiction",
+                "selected": false,
+                "title": "Substance",
+                "type": "Checkbox"
+              },
+              {
+                "childNodes": [],
+                "description": null,
+                "name": "addiction",
+                "selected": false,
+                "title": "Sex",
+                "type": "Checkbox"
+              },
+              {
+                "childNodes": [],
+                "description": null,
+                "name": "addiction",
+                "selected": false,
+                "title": "Gambling",
+                "type": "Checkbox"
+              },
+              {
+                "childNodes": [],
+                "description": null,
+                "name": "addiction",
+                "selected": false,
+                "title": "Internet/Gaming",
+                "type": "Checkbox"
+              },
+              {
+                "childNodes": [],
+                "description": null,
+                "name": "addiction",
+                "selected": false,
+                "title": "Other",
+                "type": "TextArea",
+                "value": null
+              }
+            ],
+            "description": "Which addictions do you want to address?",
+            "selected": false,
+            "title": "Addiction",
+            "type": "Question"
+          },
+          {
+            "childNodes": [],
+            "description": null,
+            "selected": false,
+            "title": "OCD",
+            "type": "Checkbox"
+          },
+          {
+            "childNodes": [],
+            "description": null,
+            "selected": false,
+            "title": "ADHD",
+            "type": "Checkbox"
+          },
+          {
+            "childNodes": [],
+            "description": null,
+            "selected": false,
+            "title": "Special Needs",
+            "type": "Checkbox"
+          }
+        ],
+        "description": "Select all that apply; again, don't feel like you have to check anything if it's not important to you",
+        "isSelected": false,
+        "title": "Yes",
+        "type": "Question"
+      },
+      {
+        "childNodes": [],
+        "description": null,
+        "isSelected": false,
+        "title": "No",
+        "type": "Checkbox"
+      }
+    ],
+    "description": "It's okay if you don't have a particular condition (i.e. 'depression', 'ptsd') in mind",
+    "id": "2",
+    "isSelected": false,
+    "title": "Do you want to address a specific condition in therapy?",
+    "type": "Question"
+  },
+  {
+    "childNodes": [
+      {
+        "childNodes": [
+          {
+            "childNodes": [],
+            "description": null,
+            "selected": false,
+            "title": "Bad about myself",
+            "type": "Checkbox"
+          },
+          {
+            "childNodes": [],
+            "description": null,
+            "selected": false,
+            "title": "Exhausted, drained",
+            "type": "Checkbox"
+          },
+          {
+            "childNodes": [],
+            "description": null,
+            "selected": false,
+            "title": "Stressed",
+            "type": "Checkbox"
+          },
+          {
+            "childNodes": [],
+            "description": null,
+            "selected": false,
+            "title": "Anxious, tense",
+            "type": "Checkbox"
+          },
+          {
+            "childNodes": [],
+            "description": null,
+            "selected": false,
+            "title": "Angry",
+            "type": "Checkbox"
+          },
+          {
+            "childNodes": [],
+            "description": null,
+            "selected": false,
+            "title": "No feelings in particular",
+            "type": "exclusive_label"
+          },
+          {
+            "childNodes": [],
+            "description": null,
+            "selected": false,
+            "title": "Other",
+            "type": "TextArea"
+          }
+        ],
+        "description": "Select all that apply; again, don't feel like you have to check anything if it's not important to you",
+        "isSelected": false,
+        "title": "Yes",
+        "type": "Question"
+      },
+      {
+        "childNodes": [],
+        "description": null,
+        "isSelected": false,
+        "title": "No",
+        "type": "Checkbox"
+      }
+    ],
+    "description": "It's okay to not have any particular feelings you want to discuss in therapy...",
+    "id": "3",
+    "isSelected": false,
+    "title": "Do you have particular feelings you want to address in therapy?",
+    "type": "Question"
+  },
+  {
+    "childNodes": [
+      {
+        "childNodes": [
+          {
+            "childNodes": [],
+            "description": null,
+            "selected": false,
+            "title": "Family Issues",
+            "type": "Checkbox"
+          },
+          {
+            "childNodes": [
+              {
+                "childNodes": [],
+                "description": null,
+                "name": "trauma",
+                "selected": false,
+                "title": "Yes",
+                "type": "Radio"
+              },
+              {
+                "childNodes": [],
+                "description": null,
+                "name": "trauma",
+                "selected": false,
+                "title": "No",
+                "type": "Radio"
+              }
+            ],
+            "description": "Was your trauma sexual in nature?",
+            "selected": false,
+            "title": "Trauma",
+            "type": "RadioGroup"
+          },
+          {
+            "childNodes": [],
+            "description": null,
+            "selected": false,
+            "title": "Grief/Loss",
+            "type": "Checkbox"
+          },
+          {
+            "childNodes": [],
+            "description": null,
+            "selected": false,
+            "title": "Other",
             "type": "TextArea",
             "value": null
           }
-        ]
-      },
-      {
-        "title": "Way I'm feeling",
-        "description": "any particular feeling you want to address in therapy?",
-        "type": "Question",
+        ],
+        "description": "Select all that apply; again, don't feel like you have to check anything if it's not important to you",
         "isSelected": false,
-        "childNodes": [
-          {
-            "title": "Bad about myself",
-            "description": null,
-            "type": "Checkbox",
-            "isSelected": false,
-            "childNodes": []
-          },
-          {
-            "title": "Exhausted, drained",
-            "description": null,
-            "type": "Checkbox",
-            "isSelected": false,
-            "childNodes": []
-          },
-          {
-            "title": "Stressed",
-            "description": null,
-            "type": "Checkbox",
-            "isSelected": false,
-            "childNodes": []
-          },
-          {
-            "title": "Anxious, tense",
-            "description": null,
-            "type": "Checkbox",
-            "isSelected": false,
-            "childNodes": []
-          },
-          {
-            "title": "Angry",
-            "description": null,
-            "type": "Checkbox",
-            "isSelected": false,
-            "childNodes": []
-          },
-          {
-            "title": "No feelings in particular",
-            "description": null,
-            "type": "exclusive_label",
-            "isSelected": false,
-            "childNodes": []
-          },
-          {
-            "title": "Other",
-            "description": "Please describe",
-            "type": "TextArea",
-            "isSelected": false,
-            "childNodes": []
-          }
-        ]
+        "title": "Yes",
+        "type": "Question"
       },
       {
-        "title": "Relationships with others",
-        "description": "Which RELATIONSHIPS would you like to address in therapy?",
-        "type": "Question",
-        "isSelected": false,
-        "childNodes": [
-          {
-            "title": "Family",
-            "description": null,
-            "childNodes": [],
-            "isSelected": false,
-            "type": "Checkbox"
-          },
-          {
-            "title": "Coworkers",
-            "description": null,
-            "childNodes": [],
-            "isSelected": false,
-            "type": "Checkbox"
-          },
-          {
-            "title": "Romantic partner[s]",
-            "description": null,
-            "childNodes": [],
-            "isSelected": false,
-            "type": "Checkbox"
-          },
-          {
-            "title": "Friends",
-            "description": null,
-            "childNodes": [],
-            "isSelected": false,
-            "type": "Checkbox"
-          },
-          {
-            "title": "Other",
-            "description": "Please describe",
-            "childNodes": [],
-            "isSelected": false,
-            "type": "TextArea"
-          }
-        ]
-      },
-      {
-        "title": "Career Guidance",
+        "childNodes": [],
         "description": null,
-        "type": "Checkbox",
         "isSelected": false,
-        "childNodes": []
-      },
-      {
-        "title": "Academic Issues",
-        "description": null,
-        "type": "Checkbox",
-        "isSelected": false,
-        "childNodes": []
+        "title": "No",
+        "type": "Checkbox"
       }
-    ]
+    ],
+    "description": "It's okay to not have any particular past incidents (you want to discuss in therapy...",
+    "id": "4",
+    "isSelected": false,
+    "title": "Do you want to address things in your past in therapy?",
+    "type": "Question"
   },
   {
-    "id": "2",
-    "description": null,
-    "title": "It's really important that a therapist address an issue related to my...",
-    "type": "Question",
-    "isSelected": false,
     "childNodes": [
       {
-        "title": "My gender",
-        "description": "How do you gender identify?",
-        "type": "RadioGroup",
-        "isSelected": false,
         "childNodes": [
           {
+            "childNodes": [],
+            "description": null,
+            "isSelected": false,
+            "name": "gender",
             "title": "male",
-            "type": "Radio",
-            "name": "gender",
-            "description": null,
-            "isSelected": false,
-            "childNodes": []
+            "type": "Radio"
           },
           {
+            "childNodes": [],
+            "description": null,
+            "isSelected": false,
+            "name": "gender",
             "title": "female",
-            "description": null,
-            "type": "Radio",
-            "name": "gender",
-            "isSelected": false,
-            "childNodes": []
+            "type": "Radio"
           },
           {
-            "title": "Other",
+            "childNodes": [],
             "description": null,
-            "type": "Radio",
-            "name": "gender",
             "isSelected": false,
-            "childNodes": []
+            "name": "gender",
+            "title": "Other",
+            "type": "Radio"
           }
-        ]
+        ],
+        "description": "How do you gender identify?",
+        "isSelected": false,
+        "title": "My gender",
+        "type": "RadioGroup"
       },
       {
-        "title": "My sexuality",
-        "description": "Sorry to put your sexuality in a box, but do you identify as...",
-        "type": "RadioGroup",
-        "isSelected": false,
         "childNodes": [
           {
+            "childNodes": [],
+            "description": null,
+            "isSelected": false,
+            "name": "sexuality",
             "title": "LGBTQ",
-            "name": "sexuality",
-            "description": null,
-            "isSelected": false,
-            "childNodes": [],
             "type": "Radio"
           },
           {
+            "childNodes": [],
+            "description": null,
+            "isSelected": false,
+            "name": "sexuality",
             "title": "Heterosexual",
-            "name": "sexuality",
-            "description": null,
-            "isSelected": false,
-            "childNodes": [],
             "type": "Radio"
           },
           {
+            "childNodes": [],
+            "description": null,
+            "isSelected": false,
+            "name": "sexuality",
             "title": "Not sure",
-            "name": "sexuality",
-            "description": null,
-            "isSelected": false,
-            "childNodes": [],
             "type": "Radio"
           },
           {
-            "title": "None of these",
-            "name": "sexuality",
+            "childNodes": [],
             "description": null,
             "isSelected": false,
-            "childNodes": [],
+            "name": "sexuality",
+            "title": "None of these",
             "type": "Radio"
           }
-        ]
+        ],
+        "description": "Sorry to put your sexuality in a box, but do you identify as...",
+        "isSelected": false,
+        "title": "My sexuality",
+        "type": "RadioGroup"
       },
       {
-        "title": "My culture",
+        "childNodes": [],
         "description": "How do you culturally identify?",
-        "type": "TextArea",
         "isSelected": false,
-        "childNodes": []
+        "title": "My culture",
+        "type": "TextArea"
       },
       {
-        "title": "My spirituality",
+        "childNodes": [],
         "description": "Could you elaborate on your spirituality?",
-        "type": "TextArea",
         "isSelected": false,
-        "childNodes": []
+        "title": "My spirituality",
+        "type": "TextArea"
+      },
+      {
+        "childNodes": [],
+        "description": null,
+        "isSelected": false,
+        "title": "None of these",
+        "type": "Checkbox"
       }
-    ]
+    ],
+    "description": "Please check anything that applies, but don't feel like you have to check anything if it's not important to you.",
+    "id": "5",
+    "isSelected": false,
+    "title": "It's really important that a therapist address an issue related to my...",
+    "type": "Question"
   },
   {
-    "id": "3",
-    "description": "use these filters to get better match",
-    "title": "Get Provider by these filters",
-    "type": "Question",
-    "isSelected": false,
     "childNodes": [
       {
-        "title": "Gender",
-        "description": "Provider Gender",
-        "type": "Question",
-        "isSelected": false,
         "childNodes": [
           {
+            "childNodes": [],
+            "description": null,
+            "isSelected": false,
+            "name": "gender",
             "title": "Male",
-            "name": "gender",
-            "description": null,
-            "isSelected": false,
-            "childNodes": [],
             "type": "Checkbox"
           },
           {
+            "childNodes": [],
+            "description": null,
+            "isSelected": false,
+            "name": "gender",
             "title": "Female",
-            "name": "gender",
-            "description": null,
-            "isSelected": false,
-            "childNodes": [],
             "type": "Checkbox"
           }
-        ]
+        ],
+        "description": "I want my therapist to be...",
+        "isSelected": false,
+        "title": "Gender",
+        "type": "Question"
       },
       {
-        "title": "Title",
-        "description": "Provider Title",
-        "type": "Question",
-        "isSelected": false,
         "childNodes": [
           {
-            "title": "Therapist",
-            "name": "title",
+            "childNodes": [],
             "description": null,
             "isSelected": false,
-            "childNodes": [],
+            "name": "age",
+            "title": "20s",
             "type": "Checkbox"
           },
           {
-            "title": "Dentist",
-            "name": "title",
+            "childNodes": [],
             "description": null,
             "isSelected": false,
+            "name": "age",
+            "title": "30s",
+            "type": "Checkbox"
+          },
+          {
             "childNodes": [],
+            "description": null,
+            "isSelected": false,
+            "name": "age",
+            "title": "40s",
+            "type": "Checkbox"
+          },
+          {
+            "childNodes": [],
+            "description": null,
+            "isSelected": false,
+            "name": "age",
+            "title": "50s",
+            "type": "Checkbox"
+          },
+          {
+            "childNodes": [],
+            "description": null,
+            "isSelected": false,
+            "name": "age",
+            "title": "60s+",
             "type": "Checkbox"
           }
-        ]
-      },
-      {
+        ],
+        "description": "I'm okay with a therapist in their...",
+        "isSelected": false,
         "title": "Age",
-        "description": "Provider Age",
-        "type": "Question",
-        "isSelected": false,
+        "type": "Question"
+      },
+      {
         "childNodes": [
           {
-            "title": "20 - 30",
-            "name": "age",
-            "description": null,
-            "isSelected": false,
             "childNodes": [],
+            "description": "Chinese, Japanese, Korean...",
+            "isSelected": false,
+            "name": "gender",
+            "title": "East Asian",
             "type": "Checkbox"
           },
           {
-            "title": "31 - 40",
-            "name": "age",
-            "description": null,
-            "isSelected": false,
             "childNodes": [],
+            "description": "Indian, Pakistani, Afghani...",
+            "isSelected": false,
+            "name": "gender",
+            "title": "South Asian or Middle Eastern",
             "type": "Checkbox"
           },
           {
-            "title": "41 - 80",
-            "name": "age",
-            "description": null,
-            "isSelected": false,
             "childNodes": [],
+            "description": "Anglo, Slavic, other European...",
+            "isSelected": false,
+            "name": "gender",
+            "title": "White",
+            "type": "Checkbox"
+          },
+          {
+            "childNodes": [],
+            "description": "African, African-American, Afro-Caribbean...",
+            "isSelected": false,
+            "name": "gender",
+            "title": "Black",
             "type": "Checkbox"
           }
-        ]
+        ],
+        "description": "Some people feel more comfortable with a therapist who can relate first-hand to their racial experience. Sorry for the crude generalizations; provider races were classified by third party contractors. Feel free to skip.",
+        "isSelected": false,
+        "title": "Race",
+        "type": "Question"
+      },
+      {
+        "childNodes": [],
+        "description": null,
+        "isSelected": false,
+        "name": "title",
+        "title": "No strong preferences",
+        "type": "RadioGroup"
       }
-    ]
+    ],
+    "description": "Please let us know if any of these are important; again, it's okay to have no preference!",
+    "id": "6",
+    "isSelected": false,
+    "title": "I care about my therapist's...",
+    "type": "Question"
+  },
+  {
+    "childNodes": [
+      {
+        "childNodes": [
+          {
+            "childNodes": [],
+            "description": "Psychiatrists attend medical school and can prescribe medication, but they tend to be more expensive and there are fewer of them",
+            "isSelected": false,
+            "name": "title",
+            "title": "Psychiatrist",
+            "type": "RadioGroup"
+          },
+          {
+            "childNodes": [],
+            "description": "Psychologists with doctorates pursue 4-7 years of post-college study in psychology, but do not go to medical school to study physical medicine as psychiatrists do (so they don't prescribe medicine). They are more expensive than social workers, but typically less expensive than psychiatrists.",
+            "isSelected": false,
+            "name": "title",
+            "title": "Psychologist with Doctorate (i.e. Phd)",
+            "type": "Checkbox"
+          },
+          {
+            "childNodes": [],
+            "description": "Social workers and family therapists complete 2 year Master's programs that focus more on therapy practice than theoretical study or research. They typically cost less than psychologists and far less than psychiatrists.",
+            "isSelected": false,
+            "name": "title",
+            "title": "Family Therapist/ Social Worker (i.e. Master's)",
+            "type": "Checkbox"
+          }
+        ],
+        "description": "Select all that apply; click on titles to learn more about them.",
+        "isSelected": false,
+        "title": "Yes",
+        "type": "Question"
+      },
+      {
+        "childNodes": [],
+        "description": null,
+        "isSelected": false,
+        "title": "No",
+        "type": "Checkbox"
+      }
+    ],
+    "description": "i.e. Psychiatrist (M.D.) vs Psychologist (Doctorate) vs Social Worker (MS) [explanation model needed]. Most won't have a preference.",
+    "id": "7",
+    "isSelected": false,
+    "title": "Do you have a strong preference for what kind of therapist you see? ",
+    "type": "Question"
   }
 ]

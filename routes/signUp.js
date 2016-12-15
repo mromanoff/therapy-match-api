@@ -1,22 +1,24 @@
 var express = require('express');
 var router = express.Router();
 
-var SignUp = require('../models/login.js');
+var User = require('../models/user.js');
 
 /* POST /api/signup */
 router.post('/', function (req, res) {
-  var login = new SignUp(req.body);
 
-  var data = {
-    message: 'Success'
-  };
+  var user = new User({
+    email: req.body.email,
+    password: req.body.password
+  });
 
-  login.save(function (err) {
-    if(err) {
+  user.save(function (err) {
+    if (err) {
       res.status(500).send(err);
     } else {
-      // 201 send no body
-      res.status(201).json(data);
+      res.status(200).json({
+        success: true,
+        message: 'User logged in'
+      });
     }
   });
 });

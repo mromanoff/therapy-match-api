@@ -2,30 +2,37 @@ var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 
 var userSchema = new Schema({
+    email: {
+      type: String,
+      default: null
+    },
+    password: {
+      type: String,
+      default: null
+    },
     firstName: {
       type: String,
-      //default: null,
-      required: true
+      default: null
     },
     lastName: {
       type: String,
-      //default: null,
-      required: true
+      default: null
+    },
+    memberId: {
+      type: String,
+      default: null
     },
     dob: {
       type: String,
-      //default: null,
-      required: true
+      default: null
     },
     state: {
       type: String,
-      //default: null,
-      required: true
+      default: null
     },
     carrierId: {
       type: Number,
-      //default: null,
-      required: true
+      default: null
     }
   },
   {collection: 'user'}
