@@ -31,7 +31,9 @@ router.get('/:id', function (req, res) {
 /* PUT  /api/issues/questionnaire/id */
 // we use findOneAndUpdate instead of findByIdAndUpdate due id is not mongo _id
 router.put('/:id', function (req, res) {
-  Questionnaire.findOneAndUpdate({id: req.params.id}, req.body, function (err, data) {
+  Questionnaire.findOneAndUpdate({
+    id: req.params.id
+  }, req.body, function (err) {
     if (err) {
       res.status(500).send(err);
     } else {

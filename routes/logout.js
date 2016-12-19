@@ -1,18 +1,21 @@
 var express = require('express');
 var router = express.Router();
+var mongoose = require('mongoose');
 
-var Logout = require('../models/logout.js');
+var User = require('../models/user.js');
 
-/* POST /api/user/login */
+/* POST /api/logout */
 router.post('/', function (req, res) {
-  var logout = new Logout(req.body);
 
-  logout.save(function (err) {
-    if(err) {
+  User.findOne({
+    email: req.body.email
+  }, function (err, user) {
+    if (err) {
       res.status(500).send(err);
     } else {
-      // 204 send no body
-      res.status(204).send();
+      res.status(200).json(new User({
+        id: new mongoose.Types.ObjectId
+      }));
     }
   });
 });

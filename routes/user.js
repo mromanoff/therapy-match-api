@@ -1,56 +1,45 @@
 var express = require('express');
 var router = express.Router();
+var mongoose = require('mongoose');
 
 var User = require('../models/user.js');
 
 /* GET /api/user  */
-router.get('/', function (req, res) {
-  User.find(function (err, data) {
+router.get('/:id', function (req, res) {
+  User.findOne({
+    id: req.params.id
+  }, function (err, data) {
     if (err) {
       res.status(500).send(err);
     } else {
-      res.status(200).json(data[0]);
+      if (data) {
+        res.status(200).json(data);
+      } else {
+        res.status(200).json(new User({
+          id: new mongoose.Types.ObjectId
+        }));
+      }
     }
   });
 });
 
 /* PUT  /api/user */
-router.put('/', function (req, res) {
-
-  User.findOneAndUpdate({name:req.params.name}, req.body, {runValidators: true, new: true}, function (err, data) {
-    if (err) {
-      res.status(400).send(err);
-    } else {
-      res.send(data);
-    }
-  });
-
-
-
-  // User.findOneAndUpdate({name:req.params.name}, req.body, {runValidators: false, new: true}, function (err, data) {
-  //   if (err) {
-  //     res.status(500).send(err);
-  //   } else {
-  //
-  //
-  //     //res.send(data);
-  //
-  //     res.status(400).json({
-  //       "message": "Validation failed",
-  //       "errors": {}
-  //     });
-  //   }
-  // });
-
-
-  // User.update(req.body, function (err, data) {
-  //   if (err) {
-  //     res.status(500).send(err);
-  //   } else {
-  //     // set status 200 no content.
-  //     res.status(200).json(data[0]);
-  //   }
-  // });
+router.put('/:id', function (req, res) {
+  User.findOneAndUpdate({
+      id: req.params.id
+    },
+    req.body,
+    {
+      runValidators: true,
+      new: true
+    },
+    function (err, data) {
+      if (err) {
+        res.status(400).send(err);
+      } else {
+        res.send(data);
+      }
+    });
 });
 
 /* POST /api/user . */
